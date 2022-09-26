@@ -1,0 +1,2 @@
+dobro = int(raw_input())
+print dobro*2
